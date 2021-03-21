@@ -2,9 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Malt-h&#39;s first blog</title>
-    <link>malt-h.github.io/categories/</link>
+    <link>https://malt-h.github.io/categories/</link>
     <description>Recent content in Categories on Malt-h&#39;s first blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="malt-h.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://malt-h.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
